@@ -37,7 +37,7 @@
     "dist/*"
   ],
   "peerDependencies": {
-    "@angular/core": "^4.0.0",
+    "@angular/core": "^4.0.1",
     "@angular/common": "^4.0.0"
   },
   "devDependencies": {

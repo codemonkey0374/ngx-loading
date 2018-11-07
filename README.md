@@ -7,7 +7,7 @@ ngx-loading is a customisable loading spinner for Angular 4.
 
 ![ngx-loading](https://cloud.githubusercontent.com/assets/26901242/25317405/05a1ce4a-2870-11e7-8693-ed2394b54cba.gif)
 
-## Installation
+## Installationewfewf
 Install ngx-loading via NPM, using the command below.
 
 ### NPM
